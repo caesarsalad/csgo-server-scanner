@@ -1,0 +1,13 @@
+{
+    "favoriteMap": "de_dust2",
+    "serverList": [
+        {
+            "name": "Turkiye Cumhuriyeti",
+            "host": "185.193.165.212:27015"
+        },
+        {
+            "name": "La Casa",
+            "host": "185.193.165.115:27015"
+        }
+    ]
+}
